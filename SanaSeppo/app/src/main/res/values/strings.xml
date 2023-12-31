@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SanaSeppo</string>
+    <string name="perinteinen">Perinteinen</string>
+    <string name="pesin_sana">Etsi pisin sana</string>
+    <string name="mission_briefing_standard">Tehtävänäsi on kerätä mahdollisimman paljon pisteitä. Pitkistä sanoista saa eniten pisteitä.</string>
+    <string name="mission_briefing_longest_word">Tehtävänäsi on löytää pisin pelilaudalle muodostuva sana.</string>
+
+</resources>

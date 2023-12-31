@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/word_lengths_text_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="3-Kirjaimisia: 4"
+    android:padding="@dimen/linear_layout_padding"
+    android:textStyle="bold"
+    android:gravity="center"
+    android:autoSizeTextType="uniform"
+    android:maxLines="1"
+    android:textColor="@color/black"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

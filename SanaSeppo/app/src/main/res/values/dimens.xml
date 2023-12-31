@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boggle_button_text_size">60dp</dimen>
+    <dimen name="boggle_ll_layout_margin">0dp</dimen>
+    <dimen name="boggle_button_margin">0dp</dimen>
+    <dimen name="boggle_item_spacing">15dp</dimen>
+    <dimen name="boggle_button_spacing">10dp</dimen>
+    <dimen name="boggle_button_corner_radius">5dp</dimen>
+    <dimen name="linear_layout_margin">10dp</dimen>
+    <dimen name="linear_layout_padding">3dp</dimen>
+    <dimen name="pause_menu_padding">50dp</dimen>
+    <dimen name="activity_main_text_view_padding">15dp</dimen>
+</resources>

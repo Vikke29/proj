@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.appcompat.widget.AppCompatButton android:autoSizeTextType="uniform"
+    android:background="@drawable/boggle_button_rounded"
+    android:clickable="false"
+    android:gravity="center"
+    android:id="@+id/longest_word_letter_button"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:minWidth="30dp"
+    android:maxLines="1"
+    android:text="A"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
